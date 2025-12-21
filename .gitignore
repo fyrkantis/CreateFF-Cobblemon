@@ -16,8 +16,6 @@ docs/*.log
 !defaultconfigs/
 !resourcepacks/
 
-!options.txt
-
 !config/fml.toml
 !config/fancymenu/
 !config/drippyloadingscreen/
@@ -34,3 +32,5 @@ docs/*.log
 !config/jei/blacklist.cfg
 !config/jei/ingredient-list-mod-sort-order.ini
 !config/jei/recipe-category-sort-order.ini
+!config/defaultsettings/
+!config/defaultsettings.json
