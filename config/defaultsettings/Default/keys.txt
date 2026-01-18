@@ -1,5 +1,5 @@
 gui.xaero_new_waypoint:key.keyboard.u:NONE
 key_key.cobblemon.hideparty:key.keyboard.o:NONE
 key_key.cobblemon.summary:key.keyboard.n:NONE
-key_key.curios.open.desc:NONE:NONE
+key_key.curios.open.desc:key.keyboard.unknown:NONE
 key_key.observable.profile:key.keyboard.p:NONE
