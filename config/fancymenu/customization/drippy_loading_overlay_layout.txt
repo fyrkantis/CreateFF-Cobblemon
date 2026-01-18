@@ -48,7 +48,7 @@ element {
   anchor_point = mid-centered
   x = -144
   y = -75
-  width = 289
+  width = 155
   height = 76
   stretch_x = false
   stretch_y = false
