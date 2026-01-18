@@ -19,11 +19,9 @@ docs/*.log
 !config/fml.toml
 !config/fancymenu/
 !config/drippyloadingscreen/
-!config/alexsmobs.toml
 !config/carryon-common.toml
 !config/immersive_aircraft.json
 !config/incapacitated-common.toml
-!config/quark-common.toml
 !config/sodiumdynamiclights-client.toml
 !config/supplementaries-common.toml
 !config/waila/waila_plugins.json5

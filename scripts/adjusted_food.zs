@@ -2,10 +2,6 @@
 craftingTable.addShapeless("credit", <item:minecraft:bedrock>.withTag({RepairCost: 0 as int, display: {Name: "{\"text\":\"Recept dåligt ändrade av DrTid\"}" as string}}), [<item:minecraft:barrier>.withTag({RepairCost: 0 as int, display: {Name: "{\"text\":\"hemlig creddit ja\"}" as string}})]);
 //simpla andringar
 
-// Conversion between different types of salt
-craftingTable.addShapeless("salt1", <item:unusual_delight:salt>, [<item:vintagedelight:salt_dust>]);
-craftingTable.addShapeless("salt2", <item:vintagedelight:salt_dust>, [<item:unusual_delight:salt>]);
-
 // Changed ruby chocolate recipe that uses liquid dragon breath instead of bottles.
 recipes.removeByName("create_confectionery:ruby_chocolate_recipe");
 <recipetype:create:mixing>.addRecipe("ruby_chocolate", <constant:create:heat_condition:heated>, [<fluid:create_confectionery:ruby_chocolate> * 250], [<item:minecraft:sugar>, <item:minecraft:cocoa_beans>], [<fluid:create_central_kitchen:dragon_breath> * 250, <fluid:minecraft:milk> * 250], 200);
@@ -75,10 +71,3 @@ recipes.remove(<item:some_assembly_required:sliced_onion>);
     [<item:some_assembly_required:sliced_onion> * 2], 
     <tag:items:farmersdelight:tools/knives>
 );
-
-// adjust taco recipe (add tomato) so it doesn't collide with mutton wrap
-recipes.remove(<item:corn_delight:taco>);
-craftingTable.addShapeless("taco", <item:corn_delight:taco>, [<item:corn_delight:tortilla>, <tag:items:forge:crops/onion>, <item:farmersdelight:tomato>, <tag:items:forge:salad_ingredients>, <tag:items:forge:cooked_beef>]);
-
-// make oats compostable
-composter.setValue(<item:vintagedelight:raw_oats>, 0.30);
