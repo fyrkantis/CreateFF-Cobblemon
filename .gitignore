@@ -15,6 +15,7 @@ docs/*.log
 !scripts/
 !defaultconfigs/
 !resourcepacks/
+!datapacks/
 
 !config/fml.toml
 !config/fancymenu/
