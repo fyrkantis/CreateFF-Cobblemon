@@ -1,3 +1,4 @@
+datapacks\
 defaultconfigs\
 scripts\
 config\alexsmobs.toml*
