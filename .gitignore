@@ -11,6 +11,8 @@ docs/*.zip
 docs/*.log
 
 !mods/
+mods/.connector/
+mods/Cobblemon-neoforge-1.7.2+1.21.1.jar
 !profileImage/
 !scripts/
 !defaultconfigs/
