@@ -1,5 +1,5 @@
 AmbientSounds_NEOFORGE_v6.3.3_mc1.21.1
-appleskin-neoforge-mc1.21-3.0.7.jar
+appleskin-neoforge-mc1.21-3.0.7
 BetterF3-11.0.3-NeoForge-1.21.1
 DefaultSettings-1.20.x-4.0.8-NeoForge
 drippyloadingscreen_neoforge_3.1.0_MC_1.21.1
