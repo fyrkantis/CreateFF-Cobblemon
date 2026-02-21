@@ -1,0 +1,34 @@
+filename = 'RestoreChatLinks-0.2.6+1.20.4.jar'
+name = 'Restore Chat Links'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [
+    '1.20.4',
+    '1.20.4',
+    '1.20.5',
+    '1.20.5',
+    '1.20.6',
+    '1.20.6',
+    '1.21',
+    '1.21',
+    '1.21.1',
+    '1.21.1',
+    '1.21.2',
+    '1.21.2',
+    '1.21.3',
+    '1.21.3',
+    '1.21.4',
+    '1.21.4'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.2.6+1.20.4-neoforge'
+
+[download]
+hash = 'dde833018888d7654507ebdf78d8779c2f5642bf18dc3f82ed043f21d0dbeb30686bcb3061ce4d5edd99a5cd195d2248ee689348cde8d7b9c4b376d1a45632a1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QSFEqmU6/versions/yzJTJLd3/RestoreChatLinks-0.2.6%2B1.20.4.jar'
+
+[update.modrinth]
+mod-id = 'QSFEqmU6'
+version = 'yzJTJLd3'
