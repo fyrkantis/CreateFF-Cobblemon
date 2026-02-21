@@ -1,0 +1,17 @@
+filename = 'forgified-fabric-api-0.116.7+2.2.3+1.21.1.jar'
+name = 'Forgified Fabric API'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.116.7+2.2.3+1.21.1'
+
+[download]
+hash = '555c3071c0b13cd309e19a97b16286d06c8947b06d4787224ad88113ebce85105dc265ce442849489a9fb02f4d3f050edb8b91c58eeb5ea53c22b6cd9c7d68b8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Aqlf1Shp/versions/xz5fFY6r/forgified-fabric-api-0.116.7%2B2.2.3%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'Aqlf1Shp'
+version = 'xz5fFY6r'

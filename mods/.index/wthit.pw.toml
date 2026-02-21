@@ -1,0 +1,17 @@
+filename = 'wthit-1.21.1-neo-12.10.1.jar'
+name = 'WTHIT'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'neo-12.10.1'
+
+[download]
+hash = 'a34030a2ca8d984edec3dbc7b1dfb201e3866546e613c4ee956d7b05eebcfc7ead029db5bb5b0a6ad51860622fc54e3b5c85849c1ce6360892fb53b0beaff588'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6AQIaxuO/versions/dMvCLKsS/wthit-1.21.1-neo-12.10.1.jar'
+
+[update.modrinth]
+mod-id = '6AQIaxuO'
+version = 'dMvCLKsS'

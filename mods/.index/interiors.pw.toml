@@ -1,0 +1,17 @@
+filename = 'interiors-1.21.1-neoforge-0.6.0.jar'
+name = 'Create: Interiors'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-neoforge-0.6.0'
+
+[download]
+hash = 'c9195a19d9d0ac99cbd36db8ee7212fc667a4e310c0d331e8774e388ac3e9fc9f197cff0000759824f6ba86fc176939829ee6863eed12d0e025560c78e41610e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/r4Knci2k/versions/kzxCnEpy/interiors-1.21.1-neoforge-0.6.0.jar'
+
+[update.modrinth]
+mod-id = 'r4Knci2k'
+version = 'kzxCnEpy'

@@ -1,0 +1,17 @@
+filename = 'Cobblemon-neoforge-1.7.2+1.21.1.jar'
+name = 'Cobblemon'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.7.2'
+
+[download]
+hash = '4594c9db031680a07bb94a501f54d36acd482351a8130f1bfc7a84713248d8e95a36760dc9223f74d151a93e524bb13b9277573eaa69369a59241d3331bfae7c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MdwFAVRL/versions/1f6yhGfC/Cobblemon-neoforge-1.7.2%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'MdwFAVRL'
+version = '1f6yhGfC'

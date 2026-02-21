@@ -1,0 +1,17 @@
+filename = 'timcore-neoforge-1.7.3-1.31.0.jar'
+name = 'Cobblemon Tim Core'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.7.3-neoforge-1.31.0'
+
+[download]
+hash = 'e92f511ebf988262759c5f52233711a2ee9247c123a57e020b1dae107907b2108a1ea20b334f630885bc51bf99538279f49faf3e8075934ae1d98cdaaeb78c03'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lVP9aUaY/versions/OrncUkpj/timcore-neoforge-1.7.3-1.31.0.jar'
+
+[update.modrinth]
+mod-id = 'lVP9aUaY'
+version = 'OrncUkpj'

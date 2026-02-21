@@ -1,0 +1,17 @@
+filename = 'cobblemore_lib-neoforge-1.2.7.jar'
+name = 'Cobblemore Lib'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.7'
+
+[download]
+hash = '22b91c0c3bb6f47f89eb586beedcc30b2636a70fd77f231fc1222693691b04d8d5d5ca046fafad9c31bd81cd7d31fbcf72efd4a9f58ebc853fbc6197296286ce'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VYP2vmDS/versions/Gn5JndfU/cobblemore_lib-neoforge-1.2.7.jar'
+
+[update.modrinth]
+mod-id = 'VYP2vmDS'
+version = 'Gn5JndfU'
