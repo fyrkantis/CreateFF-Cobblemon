@@ -1,0 +1,13 @@
+key_iris.keybind.reload:key.keyboard.unknown:
+key_iris.keybind.toggleShaders:key.keyboard.unknown:
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown:
+key_key.cobblemon.hideparty:key.keyboard.o:
+key_key.cobblemon.summary:key.keyboard.n:
+key_key.lighty.enable:key.keyboard.f7:
+key_key.lighty.toggle:key.keyboard.f8:
+key_gui.xaero_new_waypoint:key.keyboard.unknown:
+key_gui.xaero_waypoints_key:key.keyboard.u:
+key_gui.xaero_open_map:key.keyboard.m:
+key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b:
+key_key.fightorflight.startbattle:key.keyboard.g:
+key_key.observable.profile:key.keyboard.left.bracket
