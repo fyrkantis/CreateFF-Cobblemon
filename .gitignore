@@ -33,8 +33,7 @@ mods/.connector/
 !config/jei/blacklist.cfg
 !config/jei/ingredient-list-mod-sort-order.ini
 !config/jei/recipe-category-sort-order.ini
-!config/defaultsettings/
-!config/defaultsettings.json
+!config/defaultoptions/
 
 # You need to add this file yourself, as it's too large to push to GitHub.
 mods/Cobblemon-neoforge-1.7.2+1.21.1.jar
